@@ -73,7 +73,7 @@ The coursework is divided into two main parts:
 ## License
 
 This project is © 2024 Karan Falgun Modi. All rights reserved.  
-Please refer to the repository's [LICENSE](LICENSE) file for usage guidelines.
+Please refer to the repository's [LICENSE](License) file for usage guidelines.
 
 ---
 
