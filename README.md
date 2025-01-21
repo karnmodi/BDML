@@ -1,5 +1,5 @@
 
-# Big Data and Machine Learning Coursework
+# Big Data and Machine Learning
 
 This repository contains the coursework submissions for the **Big Data and Machine Learning** module (CTEC3702) at **De Montfort University**. It showcases data exploration, visualization, and machine learning solutions implemented using **Apache Spark MLlib** and Python.
 
